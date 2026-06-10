@@ -14,5 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- [![aotushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aotushi)](https://github.com/aotushi)
- [![aotushi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aotushi)](https://github.com/aotushi)
+<p>
+  <a href="https://github.com/aotushi">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=aotushi&show_icons=true&include_all_commits=true&rank_icon=github&number_format=long&cache_seconds=21600" />
+  </a>
+  <a href="https://github.com/aotushi">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aotushi&layout=compact&langs_count=8&cache_seconds=21600" />
+  </a>
+</p>
